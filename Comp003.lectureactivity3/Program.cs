@@ -17,7 +17,10 @@ namespace COMP003.LectureActivity1
         {
             //displays a simple message 
             Console.WriteLine("Hello, World!");
+            // \n line break  
+
             Console.WriteLine("Hi! \nmy name is Rosa Ovalle");
+           
         }
     }
 }
